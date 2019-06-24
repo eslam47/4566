@@ -1,0 +1,6 @@
+owner=499230288061267990
+prefix=M
+game=Playing | Mhelp
+stayinchannel=true
+songinstatus=false
+token=NTkyNTA3MjQzMDE1MTc2MjAx.XRAV8g.vZ4CcXnsjEWZ4Y_0jYh_dp1icaI
